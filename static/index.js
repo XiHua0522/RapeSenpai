@@ -348,10 +348,10 @@
             return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
         }
         SubmitResults();
-        if (score <= 49) return '逊呐';
-        if (score <= 99) return '哼哼哼';
-        if (score <= 149) return '你是一个一个一个';
-        if (score <= 199) return '哼哼哼啊啊啊啊啊';
+        if (score <= 49) return '菜批';
+        if (score <= 99) return '好拉胯呀';
+        if (score <= 149) return '诶呦，还不错哟';
+        if (score <= 199) return '莥屄';
         return '都撅烂了罢（恼';
     }
 
