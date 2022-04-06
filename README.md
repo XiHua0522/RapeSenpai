@@ -13,5 +13,5 @@
 替换了图片及音效，改了一些文本，<br>
 如有侵权现象请留言至以下邮箱:<br>
 2706692490@qq.com
-<div style="color:red">
-<p><b>纯娱乐无恶意。</b></p></div>
+<p style="color:red">
+<b>纯娱乐无恶意。</b></p>
