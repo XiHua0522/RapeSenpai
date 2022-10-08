@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://xihua0522.github.io/RapeSenpai/"><img src="https://github.com/Xiaohuang257/RapeSenpai/blob/main/static/image/jiji.jpg?raw=true" width="100" height="100" alt="RapeSenpai"></a>
+  <a href="https://xihua0522.github.io/RapeSenpai/"><img src="https://github.com/Xiaohuang257/RapeSenpai/blob/main/static/image/jiji.jpg?raw=true" width="100" height="100" alt="xiaoheizi"></a>
 </p>
 <div align="center">
 
-# RapeSenpai
+# 鸡你太美
 **新概念小黑子游戏**
 </div>
 
