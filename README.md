@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xihua0522.github.io/RapeSenpai/"><img src="static/image/jiji.jpg width="100" height="100" alt="xiaoheizi"></a>
+  <a href="https://xihua0522.github.io/RapeSenpai/"><img src="static/image/jiji.jpg" width="100" height="100" alt="xiaoheizi"></a>
 </p>
 <div align="center">
 
