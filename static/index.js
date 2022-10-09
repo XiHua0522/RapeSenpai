@@ -348,11 +348,11 @@
             return '倒计时多了' + ((deviation_time / 1000) - 20).toFixed(2) + "s";
         }
         SubmitResults();
-        if (score <= 49) return '菜批';
-        if (score <= 99) return '好拉胯呀';
-        if (score <= 149) return '诶呦，还不错哟';
-        if (score <= 199) return '莥屄';
-        return '都撅烂了罢（恼';
+        if (score <= 49) return '就这？树枝呢';
+        if (score <= 99) return '树枝感人';
+        if (score <= 149) return '你饭发了你知道吗！';
+        if (score <= 199) return '等着绿尸含吧';
+        return '鉴定为小黑子';
     }
 
     w.toStr = function(obj) {
