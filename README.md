@@ -11,6 +11,7 @@
 一个小游戏<br>
 开源自Xiaohuang257<br>
 替换了图片及音效，改了一些文本，<br>
-如有侵权现象请留言至以下邮箱:<br>
-1961617423@qq.com
-<b>纯娱乐无恶意。</b>
+如有侵权现象请到博客下留言:xihua.shop<br>
+<b>纯娱乐无恶意![1072B112](https://github.com/XiHua0522/RapeSenpai/assets/98436743/af672a11-ee77-4acd-87db-6af10fbef4d8)
+![1072AF7C](https://github.com/XiHua0522/RapeSenpai/assets/98436743/a6e3cef4-6215-415a-b8c6-1aa3aae5e5c5)
+</b>
